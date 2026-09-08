@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Memory Cards Privacy Policy</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.6;
+    }
+    body {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 32px 20px 64px;
+    }
+    h1, h2 { line-height: 1.2; }
+    h1 { margin-bottom: 4px; }
+    h2 { margin-top: 32px; }
+    .updated { color: #666; margin-top: 0; }
+    hr { margin: 48px 0; border: 0; border-top: 1px solid #aaa; }
+    a { color: #1769d2; }
+    @media (prefers-color-scheme: dark) {
+      .updated { color: #bbb; }
+      a { color: #8ab4f8; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <article lang="en">
+      <h1>Memory Cards Privacy Policy</h1>
+      <p class="updated">Effective: 8 September 2026</p>
+
+      <p>This privacy policy applies to the Memory Cards Android application, published by Threshold Lion.</p>
+
+      <h2>Information stored on your device</h2>
+      <p>The app stores your personal albums, cards, notes, study progress, preferences, reminder settings, and images you choose for personal cards locally on your device. Threshold Lion does not receive this information.</p>
+
+      <h2>Information processed by Google Play</h2>
+      <p>The app uses the Google Play In-App Updates library to check for and deliver app updates. Google Play may collect device metadata, the installed application version, and information about installed modules or asset packs for this purpose. According to Google, this information is encrypted in transit, is not transferred to third parties, and is deleted after a fixed retention period. This processing is governed by Google's privacy policies.</p>
+
+      <h2>Sharing and external actions</h2>
+      <p>The app can export albums through Android's system share interface, open source links in an external browser, and prepare a feedback email in your chosen email application. These actions occur only when you initiate them. You choose the receiving application and recipient.</p>
+
+      <h2>Notifications</h2>
+      <p>Study reminders are scheduled and generated locally on your device. The app does not use a remote push-notification service.</p>
+
+      <h2>Accounts, advertising, and analytics</h2>
+      <p>The app does not provide user accounts and does not use advertising, advertising identifiers, analytics, or crash-reporting services.</p>
+
+      <h2>Data deletion</h2>
+      <p>You can remove personal albums and their contents inside the app. Uninstalling the app removes its locally stored data, subject to Android device backup and restore settings controlled by you and Google.</p>
+
+      <h2>Contact</h2>
+      <p>Questions about this policy can be sent to <a href="mailto:thresholdlion@gmail.com">thresholdlion@gmail.com</a>.</p>
+    </article>
+
+    <hr>
+
+    <article lang="pl">
+      <h1>Polityka prywatności Memory Cards</h1>
+      <p class="updated">Obowiązuje od: 8 września 2026 r.</p>
+
+      <p>Niniejsza polityka prywatności dotyczy aplikacji Memory Cards na Androida, publikowanej przez Threshold Lion.</p>
+
+      <h2>Informacje przechowywane na urządzeniu</h2>
+      <p>Aplikacja przechowuje osobiste albumy, karty, notatki, postępy w nauce, ustawienia, ustawienia przypomnień oraz zdjęcia wybrane do osobistych kart lokalnie na urządzeniu. Threshold Lion nie otrzymuje tych informacji.</p>
+
+      <h2>Informacje przetwarzane przez Google Play</h2>
+      <p>Aplikacja korzysta z biblioteki aktualizacji w aplikacji Google Play, aby sprawdzać i dostarczać aktualizacje. W tym celu Google Play może zbierać metadane urządzenia, wersję zainstalowanej aplikacji oraz informacje o zainstalowanych modułach lub pakietach zasobów. Według Google informacje te są szyfrowane podczas przesyłania, nie są przekazywane podmiotom trzecim i są usuwane po upływie ustalonego okresu przechowywania. Przetwarzanie tych danych podlega politykom prywatności Google.</p>
+
+      <h2>Udostępnianie i działania zewnętrzne</h2>
+      <p>Aplikacja może eksportować albumy przez systemowy interfejs udostępniania Androida, otwierać odnośniki do źródeł w zewnętrznej przeglądarce oraz przygotować wiadomość z opinią w wybranej aplikacji pocztowej. Działania te następują wyłącznie z inicjatywy użytkownika. Użytkownik wybiera aplikację odbierającą oraz adresata.</p>
+
+      <h2>Powiadomienia</h2>
+      <p>Przypomnienia o nauce są planowane i generowane lokalnie na urządzeniu. Aplikacja nie korzysta ze zdalnej usługi powiadomień push.</p>
+
+      <h2>Konta, reklamy i analityka</h2>
+      <p>Aplikacja nie udostępnia kont użytkowników i nie korzysta z reklam, identyfikatorów reklamowych, narzędzi analitycznych ani usług raportowania awarii.</p>
+
+      <h2>Usuwanie danych</h2>
+      <p>Osobiste albumy i ich zawartość można usuwać w aplikacji. Odinstalowanie aplikacji usuwa dane przechowywane lokalnie, z zastrzeżeniem ustawień kopii zapasowej i przywracania Androida kontrolowanych przez użytkownika i Google.</p>
+
+      <h2>Kontakt</h2>
+      <p>Pytania dotyczące niniejszej polityki można wysyłać na adres <a href="mailto:thresholdlion@gmail.com">thresholdlion@gmail.com</a>.</p>
+    </article>
+  </main>
+</body>
+</html>
